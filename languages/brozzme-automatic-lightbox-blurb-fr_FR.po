@@ -1,0 +1,45 @@
+# Copyright (C) 2015 Brozzme Automatic Blurb Lightbox in Divi
+# This file is distributed under the same license as the Brozzme Automatic Blurb Lightbox in Divi package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme Automatic Blurb Lightbox in Divi 0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/brozzme-automatic-"
+"blurb-lightbox-divi\n"
+"POT-Creation-Date: 2017-04-28 18:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-04-28 18:41+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: Benoît Faure <dev@brozme.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: brozzme_automatic_blurb_lightbox_divi.php:66
+msgid "Lightbox"
+msgstr "Visionneuse d'images"
+
+#: brozzme_automatic_blurb_lightbox_divi.php:105
+msgid "Automatic lightbox for blurb module"
+msgstr "Activer la visionneuse pour le module Résumé"
+
+#. Plugin Name of the plugin/theme
+msgid "Brozzme Automatic Blurb Lightbox in Divi"
+msgstr "Brozzme Automatic Blurb Lightbox in Divi"
+
+#. Plugin URI of the plugin/theme
+msgid "https://brozzme.com/automatic-blurb-lightbox-module/"
+msgstr "https://brozzme.com/automatic-blurb-lightbox-module/"
+
+#. Description of the plugin/theme
+msgid "Automatic lightbox image for blurb module."
+msgstr "Visionneuse d'images automatique pour le module Résumé."
+
+#. Author of the plugin/theme
+msgid "Benoti"
+msgstr "Benoti"
+
+#. Author URI of the plugin/theme
+msgid "https://brozzme.com"
+msgstr "https://brozzme.com"

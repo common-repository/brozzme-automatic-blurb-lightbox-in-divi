@@ -1,0 +1,40 @@
+# Copyright (C) 2015 Brozzme Automatic Blurb Lightbox in Divi
+# This file is distributed under the same license as the Brozzme Automatic Blurb Lightbox in Divi package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme Automatic Blurb Lightbox in Divi 0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/brozzme-automatic-blurb-lightbox-divi\n"
+"POT-Creation-Date: 2017-04-28 16:27:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-02-01 11:20+UTC\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: brozzme_automatic_blurb_lightbox_divi.php:66
+msgid "Lightbox"
+msgstr ""
+
+#: brozzme_automatic_blurb_lightbox_divi.php:105
+msgid "Automatic lightbox for blurb module"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Brozzme Automatic Blurb Lightbox in Divi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://brozzme.com/automatic-blurb-lightbox-module/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Automatic lightbox image for blurb module."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benoti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://brozzme.com"
+msgstr ""
